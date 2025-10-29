@@ -6,13 +6,12 @@
     android:padding="8dp"
     android:gravity="center_vertical">
 
-    <!-- Imagen asociada a cada item (se puede añadir una imagen en 'assets' o en 'drawable'
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginEnd="16dp"
-        android:src="@drawable/ieti_logo" /> -->
+/>
 
     <!-- Contenedor horizontal para los textos -->
     <LinearLayout
